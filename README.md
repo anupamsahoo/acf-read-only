@@ -1,6 +1,6 @@
-# ACF Read Only Field
+# ACF Read Only Fields
 
-A Read Only field for Advanced Custom Fields
+A Read Only fields (text and textarea) for Advanced Custom Fields
 
 -----------------------
 
