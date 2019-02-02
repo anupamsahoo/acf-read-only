@@ -26,6 +26,7 @@ load_plugin_textdomain( 'acf-read_only', false, dirname( plugin_basename(__FILE_
 function include_field_types_read_only( $version ) {
 	
 	include_once('acf-read_only-v5.php');
+    include_once('acf-read-only-textarea.php');
 	
 }
 
